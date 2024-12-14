@@ -39,6 +39,9 @@ Explains the significance of detecting plant diseases.
 
 ![Screenshot 2024-12-14 193535](https://github.com/user-attachments/assets/5168e602-0f78-4bab-811e-ccbf2ff36f73)
 
+prediction
+![Screenshot 2024-12-14 193628](https://github.com/user-attachments/assets/1b32d32d-a460-49c9-9fb0-5ccd3b90802a)
+
 Upload a plant leaf image in .jpg, .jpeg, or .png format.
 
 Predicts the disease from the uploaded image using a pre-trained TensorFlow model.
