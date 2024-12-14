@@ -61,8 +61,6 @@ Displays the results directly on the live camera feed.
 
 ![Screenshot 2024-12-14 194143](https://github.com/user-attachments/assets/02a66b6e-290f-4035-b1fe-c556aaad2cd5)
 
-![Screenshot 2024-12-14 194539](https://github.com/user-attachments/assets/877b0b02-4b44-494b-a8c5-6b717f1e8667)
-
 Requirements
 Python 3.7+
 TensorFlow
