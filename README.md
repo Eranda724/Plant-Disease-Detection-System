@@ -13,7 +13,7 @@ Interfaces
 
 1. Home Page
 Provides an overview of the system's purpose and functionality.
-![Screenshot 2024-12-14 193327](https://github.com/user-attachments/assets/d7e27b1f-6f8f-4ee5-a951-c8b833bb3745)
+  ![Screenshot 2024-12-14 193327](https://github.com/user-attachments/assets/d7e27b1f-6f8f-4ee5-a951-c8b833bb3745)
 
 ![Screenshot 2024-12-14 193415](https://github.com/user-attachments/assets/92ef30f8-c5fe-4b24-8ac8-af21176c047f)
 
@@ -40,6 +40,7 @@ Explains the significance of detecting plant diseases.
 ![Screenshot 2024-12-14 193535](https://github.com/user-attachments/assets/5168e602-0f78-4bab-811e-ccbf2ff36f73)
 
 prediction
+
 ![Screenshot 2024-12-14 193628](https://github.com/user-attachments/assets/1b32d32d-a460-49c9-9fb0-5ccd3b90802a)
 
 Upload a plant leaf image in .jpg, .jpeg, or .png format.
