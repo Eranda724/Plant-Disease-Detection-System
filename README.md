@@ -1,4 +1,4 @@
-![Screenshot 2024-12-14 193327](https://github.com/user-attachments/assets/46f0cc45-a152-41c4-b835-32378ed4a747)Plant Leaf Detection and Disease Recognition System
+Plant Leaf Detection and Disease Recognition System
 
 This repository contains a real-time plant leaf detection and disease recognition system. The project uses a combination of YOLOv5 for leaf detection and a TensorFlow model for disease classification.
 
@@ -14,6 +14,7 @@ Interfaces
 1. Home Page
 Provides an overview of the system's purpose and functionality.
 ![Screenshot 2024-12-14 193327](https://github.com/user-attachments/assets/d7e27b1f-6f8f-4ee5-a951-c8b833bb3745)
+
 ![Screenshot 2024-12-14 193415](https://github.com/user-attachments/assets/92ef30f8-c5fe-4b24-8ac8-af21176c047f)
 
 Includes a description of how to use the application.
@@ -35,6 +36,7 @@ Explains the significance of detecting plant diseases.
 3. Disease Recognition Page
 
 ![Screenshot 2024-12-14 193510](https://github.com/user-attachments/assets/76b71f47-7bce-45b9-a93b-fda84751e849)
+
 ![Screenshot 2024-12-14 193535](https://github.com/user-attachments/assets/5168e602-0f78-4bab-811e-ccbf2ff36f73)
 
 Upload a plant leaf image in .jpg, .jpeg, or .png format.
@@ -50,9 +52,11 @@ Highlights detected leaves with bounding boxes and predicts the disease name.
 Displays the results directly on the live camera feed.
 
 ![Screenshot 2024-12-14 193712](https://github.com/user-attachments/assets/3ab02127-09c4-4253-a173-2c9dd2972543)
+
 ![Screenshot 2024-12-14 193936](https://github.com/user-attachments/assets/ab6ec0f3-c202-4798-a916-a4382f89ed28)
 
 ![Screenshot 2024-12-14 194143](https://github.com/user-attachments/assets/02a66b6e-290f-4035-b1fe-c556aaad2cd5)
+
 ![Screenshot 2024-12-14 194539](https://github.com/user-attachments/assets/877b0b02-4b44-494b-a8c5-6b717f1e8667)
 
 Requirements
@@ -67,6 +71,7 @@ How to Run
 Clone the repository:
 
 git clone https://github.com/Eranda724/Plant-Disease-Detection-System
+
 cd plant-disease-detection
 
 Install dependencies:
